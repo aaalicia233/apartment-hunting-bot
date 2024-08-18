@@ -1,4 +1,4 @@
-#🏠 Apartment Hunting Bot--FindUrHome
+#Apartment Hunting Bot--FindUrHome
 
 ## Find your next place faster
 
