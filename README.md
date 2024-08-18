@@ -1,21 +1,11 @@
-# 🕵🏠 Apartment Hunting Bot--FindUrHome
+#🏠 Apartment Hunting Bot--FindUrHome
 
 ## Find your next place faster
 
-FindUrHome is a small tool that watches a list of supplied URLs for changes. When it sees a change, it will send an SMS to your phone with the changed URL, meaning you won't need to endlessly refresh pages ever again 😎
-
+FindUrHome is a handy tool that monitors a list of specified URLs for updates. When a change is detected, it sends an SMS to your phone with the updated URL, so you can avoid the hassle of constantly refreshing pages 
 
 ### Usage
 
-To get started, you'll need to sign up for a [twilio account](https://www.twilio.com/try-twilio) (They offer a free trial that should accomodate the duration of your apartment hunt).
+To get started, you'll need to sign up for a [twilio account](https://www.twilio.com/try-twilio).
 
-Once that's done, you'll need clone this repo
-
-Finally, once your ENV's have been added, finish with the usual
-
-```bash
-$ yarn install // or npm install
-$ yarn start
-```
-
-That's it - Happy apartment hunting 🕵!
+🕵
